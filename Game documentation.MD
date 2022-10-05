@@ -1,6 +1,6 @@
 # Be a SUPERvisor Game Documentation:
 
-## Game descirption:
+## Game description:
 
 “Be a SUPERvisor” is a training simulator designed for supervisors to better lead different interns that come into their company. 
 It highlights potential problems that interns may face and solutions to resolve them. This simulator benefits both supervisors 
@@ -61,6 +61,7 @@ Option 1: "Hey Zoey, how's your workload for today? Can you help me out with thi
 Option 2: "Hey Zoey, could you please get this done by today? Thanks." (wrong choice)  
 "Please check with your intern’s workload before assigning work. Click on Zoey to try again!" (re-interact to restart the interaction)  
 
+#### Interaction 4.2 (continuation after picking the correct choice)  
 Zoey: "Erm…I am kind of busy now."  
 
 Dialogue interaction choices:  
@@ -102,6 +103,7 @@ Option 2: "Okay, remember to turn off the lights and lock the door. Text me if y
 
 Option 3: "What are you working on right now?" (correct choice)  
 
+#### Interaction 6.2 (happens after picking the correct choice)  
 Zoey: "I’m working on the report from Anthony. He mentioned that I should try to get this done by today."  
 You (self-thought): "Report? Wasn't that what I assigned to Anthony this morning?"  
 
