@@ -1,2 +1,2 @@
-# miscellanous
-miscellanous
+# miscellaneous
+miscellaneous
