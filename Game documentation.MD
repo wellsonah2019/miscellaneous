@@ -11,6 +11,9 @@ and interns, facilitating an effective and safe working environment for all.
 2. Zoey (your intern)
 3. Anthony (your colleague)
 
+## Map:
+Please see game map <a href='https://github.com/wellsonah2019/miscellaneous/game_map.jpg'> here</a>. 
+
 ## Interaction sequences:
 
 ### Interaction 1 (initial interaction):
